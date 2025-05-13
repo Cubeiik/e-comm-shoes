@@ -1,0 +1,13 @@
+com.example.cloth_ecommerce.app-debug-0 C:\Flutter\Projects\e-commerce-clothing\android\app\src\debug\res
+com.example.cloth_ecommerce.app-main-1 C:\Flutter\Projects\e-commerce-clothing\android\app\src\main\res
+com.example.cloth_ecommerce.app-pngs-2 C:\Flutter\Projects\e-commerce-clothing\build\app\generated\res\pngs\debug
+com.example.cloth_ecommerce.app-resValues-3 C:\Flutter\Projects\e-commerce-clothing\build\app\generated\res\resValues\debug
+com.example.cloth_ecommerce.app-rs-4 C:\Flutter\Projects\e-commerce-clothing\build\app\generated\res\rs\debug
+com.example.cloth_ecommerce.app-mergeDebugResources-5 C:\Flutter\Projects\e-commerce-clothing\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.cloth_ecommerce.app-mergeDebugResources-6 C:\Flutter\Projects\e-commerce-clothing\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.cloth_ecommerce.app-merged_res-7 C:\Flutter\Projects\e-commerce-clothing\build\app\intermediates\merged_res\debug
+com.example.cloth_ecommerce.app-packaged_res-8 C:\Flutter\Projects\e-commerce-clothing\build\path_provider_android\intermediates\packaged_res\debug
+com.example.cloth_ecommerce.app-jetified-annotation-experimental-1.1.0-9 C:\Users\Jakub\.gradle\caches\transforms-3\148821b8d2698fe88c3b0cadc28bd5de\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.cloth_ecommerce.app-core-1.6.0-10 C:\Users\Jakub\.gradle\caches\transforms-3\34f5abc234fac9776faacfcf13fe7cfc\transformed\core-1.6.0\res
+com.example.cloth_ecommerce.app-jetified-window-java-1.0.0-beta04-11 C:\Users\Jakub\.gradle\caches\transforms-3\e579a43663bd40ce7c078247b076db6b\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.cloth_ecommerce.app-jetified-window-1.0.0-beta04-12 C:\Users\Jakub\.gradle\caches\transforms-3\f349b91eebf5fd4438fe33805c557869\transformed\jetified-window-1.0.0-beta04\res
